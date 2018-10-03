@@ -1795,8 +1795,8 @@ body {
   }
 }
 .cid-qLCihcxoNc {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1862,5 +1862,8 @@ body {
   }
 }
 .cid-qLCihcxoNc .copyright > p {
+  text-align: left;
+}
+.cid-qLCihcxoNc P {
   text-align: left;
 }
