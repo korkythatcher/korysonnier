@@ -41,7 +41,12 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
