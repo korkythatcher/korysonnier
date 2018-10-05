@@ -34,7 +34,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-128x147.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x147-1.png",
     "noImageResize": "",
     "siteFonts": [
       {
@@ -47,7 +47,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": ""
+    "google-analytics": "A Louisiana Database Administrator and Technology Specialist. A professional with hands-on experience in the development, and implementation of IT solutions that solve today's business problems. "
   },
   "pages": {
     "index.html": {
