@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Kory M. Sonnier",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 21,
@@ -34,7 +34,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x147.png",
     "noImageResize": "",
     "siteFonts": [
       {
